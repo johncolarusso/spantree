@@ -1,0 +1,15 @@
+<?xml version="1.2"?>
+<country>
+<region>
+<road>1 2 16</road>
+<road>0 2 24</road>
+</region>
+<region>
+<road>4 5 1</road>
+<road>3 5 2</road>
+</region>
+<region>
+<road>6 7 1</road>
+<road>6 8 1</road>
+</region>
+</country>
